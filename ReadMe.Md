@@ -237,11 +237,13 @@ ALB automatically load-balances traffic.
 * AWS ALB Ingress integration
 * Persistent storage for databases
 
+
 ---
+
+
 ## DockerHub
 
-**(https://hub.docker.com/repositories/harshaa137)**
-
+**https://hub.docker.com/repositories/harshaa137**
 ---
 
 
@@ -270,4 +272,5 @@ B.Tech Computer Science | Cloud & DevOps Enthusiast
 * No custom domain is configured
 
 ---
+
 
