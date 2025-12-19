@@ -240,22 +240,22 @@ ALB automatically load-balances traffic.
 
 ---
 
+## 🐳 DockerHub
 
-## DockerHub
+🔗 https://hub.docker.com/repositories/harshaa137
 
-**https://hub.docker.com/repositories/harshaa137**
 ---
 
+## 📘 Guide
 
-## Guide
+👨‍🏫 **Shubham Londhe**
 
-**Shubam Londhe**
 ---
 
+## 📂 Actual Repository
 
-## Actual Repository
+🔗 https://github.com/LondheShubham153/TWSThreeTierAppChallengershada
 
-**https://github.com/LondheShubham153/TWSThreeTierAppChallengershada**
 ---
 
 
@@ -272,5 +272,6 @@ B.Tech Computer Science | Cloud & DevOps Enthusiast
 * No custom domain is configured
 
 ---
+
 
 
